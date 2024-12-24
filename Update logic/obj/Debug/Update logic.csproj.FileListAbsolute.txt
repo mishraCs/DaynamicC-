@@ -1,0 +1,34 @@
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Update logic.dll.config
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Update logic.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Update logic.pdb
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Buffers.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Memory.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Numerics.Vectors.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.ServiceModel.Http.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.ServiceModel.Primitives.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Text.Encodings.Web.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Text.Json.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.ValueTuple.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Buffers.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Memory.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Numerics.Vectors.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.ServiceModel.Http.pdb
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Text.Encodings.Web.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Text.Json.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\bin\Debug\System.ValueTuple.xml
+D:\MyCode\ProgramC#\Update logic\Update logic\obj\Debug\Update logic.csproj.AssemblyReference.cache
+D:\MyCode\ProgramC#\Update logic\Update logic\obj\Debug\Update logic.csproj.CoreCompileInputs.cache
+D:\MyCode\ProgramC#\Update logic\Update logic\obj\Debug\Update l.A3AA8D57.Up2Date
+D:\MyCode\ProgramC#\Update logic\Update logic\obj\Debug\Update logic.dll
+D:\MyCode\ProgramC#\Update logic\Update logic\obj\Debug\Update logic.pdb
